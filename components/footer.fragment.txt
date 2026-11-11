@@ -1,0 +1,120 @@
+
+<footer class="footer">
+
+  <div class="container">
+
+    <div class="footer-inner">
+
+      <!-- EMPRESA -->
+      <div class="footer-company">
+
+        <a
+          href="index.html"
+          class="footer-logo"
+          aria-label="Ruppel Construcciones - Inicio"
+        >
+          <img
+            src="assets/logo/ruppel-logo.jpg"
+            alt="Logo de Ruppel Construcciones"
+          >
+        </a>
+
+        <div class="footer-details">
+
+          <strong>Ruppel Construcciones</strong>
+
+          <p>Galpones y tinglados</p>
+
+          <a href="mailto:Ruppel.r@hotmail.com">
+            Ruppel.r@hotmail.com
+          </a>
+
+          <a
+            href="https://wa.me/5492914632480"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            WhatsApp: 291 463 2480
+          </a>
+
+        </div>
+
+      </div>
+
+      <!-- REDES SOCIALES -->
+      <div class="footer-social">
+
+        <strong class="footer-heading">Seguinos</strong>
+
+        <div class="social-links">
+
+          <a
+            href="https://www.facebook.com/share/19fvnRNgBz/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <svg
+              viewBox="0 0 24 24"
+              width="22"
+              height="22"
+              fill="currentColor"
+              aria-hidden="true"
+            >
+              <path d="M22 12a10 10 0 1 0-11.56 9.88v-6.99H7.9V12h2.54V9.8c0-2.51 1.5-3.9 3.77-3.9 1.1 0 2.25.2 2.25.2v2.47h-1.27c-1.25 0-1.64.78-1.64 1.58V12h2.79l-.45 2.89h-2.34v6.99A10 10 0 0 0 22 12Z"/>
+            </svg>
+
+            <span>Facebook</span>
+          </a>
+
+          <a
+            href="https://instagram.com/ruppelconstrucciones"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <svg
+              viewBox="0 0 24 24"
+              width="22"
+              height="22"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <rect x="2" y="2" width="20" height="20" rx="5"/>
+              <circle cx="12" cy="12" r="4"/>
+              <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
+            </svg>
+
+            <span>Instagram</span>
+          </a>
+
+        </div>
+
+      </div>
+
+      <!-- NAVEGACIÓN -->
+      <div class="footer-navigation">
+
+        <strong class="footer-heading">Navegación</strong>
+
+        <nav class="footer-nav" aria-label="Navegación del pie de página">
+          <a href="index.html">Inicio</a>
+          <a href="sobre-nosotros.html">Sobre nosotros</a>
+          <a href="contacto.html">Contacto</a>
+        </nav>
+
+      </div>
+
+    </div>
+
+    <!-- COPYRIGHT -->
+    <div class="footer-bottom">
+      © Ruppel Construcciones.
+      Todos los derechos reservados.
+    </div>
+
+  </div>
+
+</footer>
